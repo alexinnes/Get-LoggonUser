@@ -9,7 +9,7 @@
     .EXAMPLE
        Get-LoggedOnUser -ComputerName Some-Computer
     .INPUTS
-       will accept values from the pipeline: "Computer", "__SERVER", "IPAddress"
+       Will accept values from the pipeline: "Computer", "__SERVER", "IPAddress"
     .OUTPUTS
        Will output type: System.Management.ManagementObject#root\cimv2\Win32_UserProfile
     .NOTES
